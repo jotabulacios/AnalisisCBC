@@ -3,6 +3,12 @@
 
 # How to use Franklin
 
+~~~
+<iframe width="907" height="510" src="https://www.youtube.com/embed/O-q87wSyYQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+~~~
+
+
+
 \tableofcontents <!-- you can use \toc as well -->
 
 This section is meant as a refresher if you're new to Franklin.
